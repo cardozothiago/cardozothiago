@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/Thiago%20Cardozo-blue?logo=linkedin)](https://www.linkedin.com/in/kadozo/) 
 
-<h2 align="center">Oi, Bem vindo ao meu Perfil!  </h2> 
+<h2 align="center">Oi, bem vindo ao meu perfil!  </h2> 
 
 
 - 👨🏾‍💻💻 Meu nome é Thiago Cardozo
