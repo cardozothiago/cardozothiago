@@ -4,7 +4,7 @@
 
 
 - 👨🏾‍💻💻 Meu nome é Thiago Cardozo
-- 🧑‍🎓 Graduando em Engenharia de Computação pela **[Universidade Estadual de Feira de Santana (UEFS)](http://www.uefs.br/).**
+- 🧑‍🎓 Graduando em Engenharia de Computação pela **[Universidade Estadual de Feira de Santana](http://www.uefs.br/).**
 - 🚀💙 Diretor de Marketing na Empresa Júnior **[EcompJr](https://ecompjr.com.br/)**
 
 ### Interesses: ###
