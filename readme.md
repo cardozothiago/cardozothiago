@@ -11,7 +11,7 @@
 
 - 👨🏾‍💻💻 Meu nome é Thiago Cardozo
 - 🧑‍🎓 Graduando em Engenharia de Computação pela **[Universidade Estadual de Feira de Santana](http://www.uefs.br/).**
-- 🚀💙 Diretor de Marketing na Empresa Júnior **[EcompJr](https://ecompjr.com.br/)**
+- 🚀💙 Diretor de Marketing/Presidente na Empresa Júnior **[EcompJr](https://ecompjr.com.br/)**
 
 <div align="center">
   <img height="120em" src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepehop3x.gif">
