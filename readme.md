@@ -7,9 +7,13 @@
 - 👨🏾‍💻💻 Meu nome é Thiago Cardozo
 - 🧑‍🎓 Graduando em Engenharia de Computação pela **[Universidade Estadual de Feira de Santana](http://www.uefs.br/).**
 
-- Durante a minha trajetória academia participei de diversas atividades complementares para agregar nos meus conhecimentos, para além do que o bacharel já capacita! Fiz parte do corpo de membros da Empresa Júnior (🚀💙 **[EcompJr](https://ecompjr.com.br/)**), além de ter passado um período de 2 anos como cargo de liderança da mesma, (🚀💙 Diretor de Marketing/Presidente). 
+- Durante a minha trajetória academia participei de diversas atividades complementares para agregar nos meus conhecimentos, para além do que o bacharel já capacita! Fiz parte do corpo de membros da Empresa Júnior (🚀💙 **[EcompJr](https://ecompjr.com.br/)**), além de ter passado um período de 2 anos como cargo de liderança da mesma, (🚀💙 Diretor de Marketing/Presidente). A experiencia na Ecompjr me ajudou bastante em termos de softskills e hardskills, já que aprendi novas tecnologias e sempre estava em contato com o trabalho em equipe e atendimento ao cliente
 
 - Participei de iniciação científica onde trabalhei com **[WebScraping](https://www.parsehub.com/blog/what-is-web-scraping/)** onde eu coletei informações de rankings de uma plataforma de música chamada Trama Virtual. Os resultados da pesquisa de iniciação científica podem ser vistos **[Clicando Aqui](http://bit.ly/plataformasdemusicabrasil)**
+
+- Participei da [Liga Inteligência Artificial do IEEE-UEFS](https://edu.ieee.org/br-uefs/) onde pude aprender conceitos básicos e intermediários sobre construção e aplicação de Redes Neurais. Durante minha passagem na Liga construir junto com alguns colegas de equipe, um algoritmo no âmbito da [NLP](https://www.ibm.com/topics/natural-language-processing), o qual classificaria um texto de entrada, como positivo ou negativo.
+
+- Estou atualmente trabalhando no meu TCC, que envolve também conceitos de Inteligência Artificial, Machine Learning. aplicada à tarefas de Regressão
 
 <div align="center">
   <img height="120em" src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepehop3x.gif">
