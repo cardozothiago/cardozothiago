@@ -1,17 +1,12 @@
 [![Linkedin](https://img.shields.io/badge/Thiago%20Cardozo-blue?logo=linkedin)](https://www.linkedin.com/in/kadozo/) 
 
 <h3 align="center">Bem vindo ao meu perfil!  </h3> 
-<div align="center">
-  <img height="100em" src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepe-transparent.gif">
-  <img height="100em"  src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepe-transparent.gif">
-  <img height="100em"  src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepe-transparent.gif">
-</div>
 <hr/>
 
 
 - 👨🏾‍💻💻 Meu nome é Thiago Cardozo
 - 🧑‍🎓 Graduando em Engenharia de Computação pela **[Universidade Estadual de Feira de Santana](http://www.uefs.br/).**
-- 🚀💙 Diretor de Marketing/Presidente na Empresa Júnior **[EcompJr](https://ecompjr.com.br/)**
+Durante a minha trajetória academia participei de diversas atividades complementares para agregar nos meus conhecimentos, para além do que o bacharel já capacita! Fiz parte do corpo de membros da Empresa Júnior (🚀💙 **[EcompJr](https://ecompjr.com.br/)**), além de ter passado um período de 2 anos como cargo de liderança da mesma, (🚀💙 Diretor de Marketing/Presidente). Participei de iniciação científica onde trabalhei com **[WebScraping](https://www.parsehub.com/blog/what-is-web-scraping/)** onde eu coletei informações de rankings de uma plataforma de música chamada Trama Virtual. Os resultados da pesquisa de iniciação científica podem ser vistos **[Clicando Aqui](http://bit.ly/plataformasdemusicabrasil)**
 
 <div align="center">
   <img height="120em" src="https://github.com/Kadozo/Kadozo/blob/507eba08a97c6870723dc33b2285f2708fb7ba2e/assets/pepehop3x.gif">
@@ -23,12 +18,11 @@
 - Golang
 - JavaScript / TypeScript
 - NodeJs
-- PHP / Laravel
-- React / NextJs
-- React / Ionic
-- React Native
+- React
+- Python
 
 <hr/>
+#### Os interesses citados acima, não são todos os meus interesses, apenas alguns que lembrei rapidamente para escrever. Sempre estou buscando novos conhecimentos :) 
 <div align="center">
   <h3>Minhas Estatísticas</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kadozo&theme=omni">
@@ -38,5 +32,4 @@
 
 <div align="center">
   <strong>That's all folks!</strong>
- <img height="25em" src="https://github.com/Kadozo/Kadozo/blob/main/assets/pepenod.gif">
 </div>
