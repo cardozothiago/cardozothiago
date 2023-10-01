@@ -29,7 +29,7 @@
 - Python
 
 <hr/>
-#### Os interesses citados acima, não são todos os meus interesses, apenas alguns que lembrei rapidamente para escrever. Sempre estou buscando novos conhecimentos :) ####
+### Os interesses citados acima, não são todos os meus interesses, apenas alguns que lembrei rapidamente para escrever. Sempre estou buscando novos conhecimentos :) ###
 <div align="center">
   <h3>Minhas Estatísticas</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kadozo&theme=omni">
