@@ -43,8 +43,8 @@
 
 <div align="center">
   <h3>Minhas Estatísticas</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kadozo&theme=omni">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadozo&layout=compact&theme=omni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardozothiago&theme=omni">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardozothiago&layout=compact&theme=omni">
 </div>
 
 
