@@ -26,6 +26,7 @@
 - Golang
 - NodeJs
 - Python
+- Data Science/Engineering
 
 <hr/>
 
